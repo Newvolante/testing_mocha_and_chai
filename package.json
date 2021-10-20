@@ -1,0 +1,23 @@
+{
+  "name": "testing_mocha_and_chai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Newvolante/testing_mocha_and_chai.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Newvolante/testing_mocha_and_chai/issues"
+  },
+  "homepage": "https://github.com/Newvolante/testing_mocha_and_chai#readme",
+  "devDependencies": {
+    "mocha": "^9.1.3"
+  }
+}
